@@ -1,0 +1,29 @@
+[
+    {
+        "name":"_id",
+        "title":"ID"
+    },
+    {
+        "name":"_order_details",
+        "title":"Descripción",
+        "breakpoints":"xs"
+    },
+    {
+        "name":"_table_code",
+        "title":"Mesa"
+    },
+    {
+        "name":"_status",
+        "title":"Status"
+    },
+    {
+        "name":"_order_at",
+        "title":"Hora",
+        "breakpoints":"xs"
+    },
+    {
+        "name":"_comment",
+        "title":"Comments",
+        "breakpoints":"xs"
+    }
+]

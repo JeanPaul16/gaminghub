@@ -1,0 +1,78 @@
+
+
+/* Backup code */
+
+/* 
+.welcome_container {
+    background: red;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.welcome_img {
+    background: cyan;
+    position: absolute;
+    width: 100%;
+}
+
+.img_container {
+    display: block;
+    z-index: -1;
+}
+
+.img_container img {
+    width: 100%;
+} */
+
+/* .parent-link {
+    position: relative;
+    width: auto;
+    height: 100%;
+    background-color: white;
+}
+
+.parent-link::after {
+    content: '';
+    width: 15em;
+    height: 11em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: var(--main_theme);
+    box-shadow: var(--drop_shadow);
+    z-index: -2;
+    border-radius: 50% 50%;
+}
+
+.parent-link::before {
+    content: '';
+    width: 15em;
+    height: 8em;
+    position: absolute;
+    left: 50%;
+    top: 0;
+    z-index: -1;
+    transform: translate(-50%, -10%);
+    background: black;
+} 
+
+
+.nav_logo::before {
+    content: '';
+    width: 10em;
+    height: 2em;
+    left: 50%;
+    bottom: -3em;
+    transform: translateX(-50%);
+    z-index: 100;
+    position: absolute;
+    background: var(--main_theme);
+    clip-path: ellipse(100% 100% at 50% 0);
+}
+
+
+*/

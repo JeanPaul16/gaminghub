@@ -1,0 +1,174 @@
+[
+    {
+        "_id": "16",
+        "_table_code": "GH-NS-P2",
+        "_service_status": "Por Confirmar",
+        "_kitchen_status": "Por Confirmar",
+        "_comment": "Sin Comentarios",
+        "_order_at": "2023-09-16 02:40:31",
+        "_order_details": [
+            {
+                "_item_name": "Porkyburger",
+                "_presentation": "Porky2",
+                "_quantity": "1",
+                "_item_code": "SDS_01",
+                "_code": "_02"
+            },
+            {
+                "_item_name": "Tripletakos",
+                "_presentation": "Pollo",
+                "_quantity": "1",
+                "_item_code": "SDS_02",
+                "_code": "_01"
+            },
+            {
+                "_item_name": "Pandora's Box",
+                "_presentation": "Nachos",
+                "_quantity": "1",
+                "_item_code": "DLC_03",
+                "_code": "_01"
+            }
+        ]
+    },
+    {
+        "_id": "15",
+        "_table_code": "GH-NS-P2",
+        "_service_status": "Por Confirmar",
+        "_kitchen_status": "Por Confirmar",
+        "_comment": "Sin Comentarios",
+        "_order_at": "2023-09-16 02:38:16",
+        "_order_details": [
+            {
+                "_item_name": "Bebidas",
+                "_presentation": "Gaseosa",
+                "_quantity": "1",
+                "_item_code": "STU_01",
+                "_code": "_01"
+            }
+        ]
+    },
+    {
+        "_id": "14",
+        "_table_code": "GH-NS-P2",
+        "_service_status": "Por Confirmar",
+        "_kitchen_status": "Por Confirmar",
+        "_comment": "Sin Comentarios",
+        "_order_at": "2023-09-16 02:37:12",
+        "_order_details": [
+            {
+                "_item_name": "Koopas",
+                "_presentation": "Tostones",
+                "_quantity": "1",
+                "_item_code": "TUT_04",
+                "_code": "_01"
+            }
+        ]
+    },
+    {
+        "_id": "13",
+        "_table_code": "GH-NS-P1",
+        "_service_status": "Por Confirmar",
+        "_kitchen_status": "Por Confirmar",
+        "_comment": "Sin Comentarios",
+        "_order_at": "2023-09-16 23:50:54",
+        "_order_details": [
+            {
+                "_item_name": "Expansi\u00f3n de Papas",
+                "_presentation": "Papas",
+                "_quantity": "2",
+                "_item_code": "DLC_01",
+                "_code": "_01"
+            },
+            {
+                "_item_name": "Bebidas",
+                "_presentation": "Gaseosa",
+                "_quantity": "1",
+                "_item_code": "STU_01",
+                "_code": "_01"
+            },
+            {
+                "_item_name": "Nukes",
+                "_presentation": "10 pza.",
+                "_quantity": "1",
+                "_item_code": "TUT_02",
+                "_code": "_01"
+            },
+            {
+                "_item_name": "Bebidas",
+                "_presentation": "Victoria Cl\u00e1sica",
+                "_quantity": "2",
+                "_item_code": "STU_01",
+                "_code": "_11"
+            }
+        ]
+    },
+    {
+        "_id": "12",
+        "_table_code": "GH-NS-P2",
+        "_service_status": "Preparaci\u00f3n Completa",
+        "_kitchen_status": "Entregado",
+        "_comment": "Sin Comentarios",
+        "_order_at": "2023-09-16 06:16:00",
+        "_order_details": [
+            {
+                "_item_name": "Bebidas",
+                "_presentation": "Margarita",
+                "_quantity": "2",
+                "_item_code": "STU_01",
+                "_code": "_07"
+            },
+            {
+                "_item_name": "Big Smork Combo",
+                "_presentation": "Cl\u00e1sica",
+                "_quantity": "1",
+                "_item_code": "LBS_01",
+                "_code": "_01"
+            },
+            {
+                "_item_name": "Bebidas",
+                "_presentation": "Victoria Cl\u00e1sica",
+                "_quantity": "1",
+                "_item_code": "STU_01",
+                "_code": "_11"
+            }
+        ]
+    },
+    {
+        "_id": "11",
+        "_table_code": "GH-NS-P1",
+        "_service_status": "Por Confirmar",
+        "_kitchen_status": "Por Confirmar",
+        "_comment": "Sin Comentarios",
+        "_order_at": "2023-09-16 13:20:13",
+        "_order_details": [
+            {
+                "_item_name": "Porkyburger",
+                "_presentation": "Cl\u00e1sica",
+                "_quantity": "1",
+                "_item_code": "SDS_01",
+                "_code": "_01"
+            },
+            {
+                "_item_name": "Expansi\u00f3n de Papas",
+                "_presentation": "Papas",
+                "_quantity": "2",
+                "_item_code": "DLC_01",
+                "_code": "_01"
+            },
+            {
+                "_item_name": "Nachos of Chaos",
+                "_presentation": "Pollo",
+                "_quantity": "1",
+                "_item_code": "TUT_03",
+                "_code": "_01"
+            },
+            {
+                "_item_name": "Bebidas",
+                "_presentation": "Gaseosa",
+                "_quantity": "2",
+                "_item_code": "STU_01",
+                "_code": "_01"
+            }
+        ]
+    }
+]
